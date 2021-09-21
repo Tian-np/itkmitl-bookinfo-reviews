@@ -1,1 +1,0 @@
-# itkmitl-bookinfo-reviews
